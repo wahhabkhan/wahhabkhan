@@ -9,7 +9,7 @@
 - I’m currently working as Junior Lecturer/Software Developer at Iqra University Islamabad.
 
 ## Achievements 🏆
-- **CS50x @Harvard Winner 2025** | Led a team of 3 members solved all 9/9 problems. See Here
+- **CS50x @Harvard Winner 2025** | Led a team of 3 members solved all 9/9 problems. 
 - **TeamsCode International Coding Competition Spring 2025 - Advanced Division** | Ranked 39th out of 396.
 - **Duolingo English Test** | Successfully obtained 125/160 Score (which is equivalent to IELTS 6.5 bands).
 - **Highly Ranked (4.9+) @ Fiverr** Instructor for the “Python for Beginners” Course | Top Rated Seller 30+ International Students, Sept 2020 - Jan 2024.
