@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=wahhabkhan&color=blue)
+![image](https://github.com/user-attachments/assets/0dc60e6c-7155-479d-ac3c-39cc7e39135a)![Profile views](https://komarev.com/ghpvc/?username=wahhabkhan&color=blue)
 ## Hi there 👋
 - I'm looking for PhD positions in Computer Science / Cybersecurity.
   
@@ -63,9 +63,9 @@
 - Applied university-acquired knowledge through practical experience.
 
 ## How to reach me 📫
-[LinkedIn](https://www.linkedin.com/in/wahhabk/)
+🔗[LinkedIn](https://www.linkedin.com/in/wahhabk/)
 
-[Email](mailto:mwahab.1611@gmail.com)
+📧[Email](mailto:mwahab.1611@gmail.com)
 
 Feel free to reach out!
 
