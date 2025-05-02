@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0dc60e6c-7155-479d-ac3c-39cc7e39135a)![Profile views](https://komarev.com/ghpvc/?username=wahhabkhan&color=blue)
 ## Hi there 👋
-- I'm looking for PhD positions in Computer Science.
+- I'm looking for Ph.D. positions in Computer Science.
   
 ## About me 👨
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
