@@ -32,7 +32,7 @@
 - Designing and evaluating assignments, lab tasks, quizzes, and projects.
 
 **Python Instructor | FIVERR | 01/09/2020 – 31/01/2024**
-- Reached Top Rated Seller @ 4.9 Ratings.
+- Reached Top Rated Seller Badge | 4.9+ Ratings.
 - Tutored programming to 30+ international students during university and after graduation.
 - Applied university-acquired knowledge through practical experience.
 
