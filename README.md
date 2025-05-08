@@ -12,7 +12,7 @@
 
 ## Achievements 🏆
 - **Calico Spring 2025 @University of California Berkeley** | Ranked 116th among 820 teams and 1816 contestants from 48 countries and 30 U.S. states **(Top 6%).**
-- **CS50x @Harvard Winner 2025** | Led a team of 3 members solved all 9/9 problems **(Ranked 1st among other countries).** 
+- **CS50x @Harvard Winner 2025** | Led a team of 3 members solved all 9/9 problems **(Ranked 1st among other countries - 9000+ participants).** 
 - **TeamsCode International Coding Competition Spring 2025 - Advanced Division** | Ranked 39th out of 396 **(Top 10%).**
 - **Duolingo English Test** | Successfully obtained 125/160 Score (which is equivalent to IELTS 6.5 bands).
 - **Highly Ranked (4.9+) @ Fiverr** Instructor for the “Python for Beginners” Course | Top Rated Seller 30+ International Students, Sept 2020 - Jan 2024.
