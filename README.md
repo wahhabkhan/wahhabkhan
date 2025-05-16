@@ -17,7 +17,7 @@
 - **Duolingo English Test** | Successfully obtained 125/160 Score (which is equivalent to IELTS 6.5 bands).
 - **Highly Ranked (4.9+) @ Fiverr** Instructor for the “Python for Beginners” Course | Top Rated Seller 30+ International Students, Sept 2020 - Jan 2024.
 - **Hazza Institute @NAVTTC** | Ranked first out of 50 candidates developed six application snippets, 2022.
-- **International Islamic University Islamabad** | Merit Scholarship Holder, 2019.
+- **International Islamic University Islamabad** | Merit Scholarship Holder during undergraduate, 2019.
 - **Quaid-i-Azam University** | Prime Minister Laptop Award Holder, 2018.
 - **Punjab College** | Merit Scholarship Holder, 2015.
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
@@ -75,6 +75,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/wahhabk/)
 
 📧 [Email](mailto:mwahab.1611@gmail.com)
+
+🌐 [Website](https://wahhabkhan.github.io/)
 
 Feel free to reach out!
 
