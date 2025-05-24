@@ -5,7 +5,7 @@
   
 ## About me 👨
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
-- Possesses industrial experience in software development within Pakistan, along with remote work experience as Freelance Software Engineer through Fiverr.
+- Software developer with industry experience in Pakistan and remote freelance expertise via Fiverr.
 - I’m currently working as Junior Lecturer/Software Developer at Iqra University Islamabad.
 
 
