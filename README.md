@@ -22,7 +22,7 @@
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
 
   
-## Research Experience 🔍
+## FYP 🔍
  **Junior Researcher / International Islamic University Islamabad**
 - Developed an E-Rental application to automate car rental operations with secure user authentication and data handling.
 - Integrated features like OTP verification via Phone/Gmail and password hashing; used React Native, SQLite, Javascript, and Firebase.
@@ -43,8 +43,8 @@
 ## Work Experience 💼
 **Junior Lecturer / Software Developer | Iqra University Islamabad | 03/07/2024 – CURRENT**
 - Conducting labs for undergraduate students, primarily focused on programming courses (C++, Java, Python, etc) and Databases.
-- Assisting the development team in managing the university’s Learning Management System (LMS).
 - Designing and evaluating assignments, lab tasks, quizzes, and projects.
+- Taught & Mentored 550+ undergrad students in different courses.
 
 **Freelance Software Engineer | FIVERR | 01/07/2024 – CURRENT**
 - Providing services in website development, programming, databases, and more.
