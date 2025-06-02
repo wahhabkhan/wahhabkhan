@@ -28,7 +28,7 @@
 - Integrated features like OTP verification via Phone/Gmail and password hashing; used React Native, SQLite, Javascript, and Firebase.
 
 
-## Teaching Experience 🧑‍🏫
+## Teaching Experience 🏫 
 **Junior Lecturer | Iqra University Islamabad | 03/07/2024 – CURRENT**
 - Conducting labs for undergraduate students, primarily focused on programming courses (C++, Java, Python, etc) and Databases.
 - Summer 2024, Fall 2024, Spring 2025
