@@ -42,7 +42,7 @@
 
 ## Work Experience 💼
 **Junior Lecturer / Software Developer | Iqra University Islamabad | 03/07/2024 – CURRENT**
-- Conducting labs for undergraduate students, primarily focused on programming courses (C++, Java, Python, etc) and Databases.
+- Conducting labs for undergraduate students, primarily focused on programming courses (C++, Java and Python, etc) and Databases.
 - Designing and evaluating assignments, lab tasks, quizzes, and projects.
 - Taught & Mentored 550+ undergrad students in different courses.
 
