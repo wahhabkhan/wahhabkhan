@@ -24,8 +24,8 @@
 - Integrated features like OTP verification via Phone/Gmail and password hashing; used React Native, SQLite, Javascript, and Firebase.
 
 ## Teaching Experience 🏫 
-- **Junior Lecturer | Iqra University Islamabad | 03/07/2024 – CURRENT**
-- **Python Instructor | FIVERR | 01/09/2020 – 31/01/2024**
+- **Junior Lecturer** | Iqra University Islamabad | 03/07/2024 – CURRENT
+- **Python Instructor** | FIVERR | 01/09/2020 – 31/01/2024
 
 ## Work Experience 💼
 - **Junior Lecturer / Software Developer** | Iqra University Islamabad | 03/07/2024 – CURRENT
