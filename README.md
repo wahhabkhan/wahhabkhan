@@ -18,11 +18,6 @@
 - **Punjab College** | Merit Scholarship Holder, 2015.
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
 
-## FYP 🔍
- **Junior Researcher / International Islamic University Islamabad**
-- Developed an E-Rental application to automate car rental operations with secure user authentication and data handling.
-- Integrated features like OTP verification via Phone/Gmail and password hashing; used React Native, SQLite, Javascript, and Firebase.
-
 ## Teaching Experience 🏫 
 - **Junior Lecturer** | Iqra University Islamabad | 03/07/2024 – CURRENT
 - **Python Instructor** | FIVERR | 01/09/2020 – 31/01/2024
