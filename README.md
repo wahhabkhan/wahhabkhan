@@ -6,6 +6,7 @@
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
 - Software developer with industry experience in Pakistan and remote freelance expertise via Fiverr.
 - I’m currently working as Junior Lecturer/Software Developer at Iqra University Islamabad.
+- I'm passionate about learning. In fact, I like learning so much that I decided to work full-time with learning which is why I'm looking for PhD positions!
 
 ## Achievements 🏆
 - **Calico Spring 2025 @University of California Berkeley** | (Top 6%).
