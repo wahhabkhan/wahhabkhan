@@ -14,7 +14,7 @@
 - **Highly Ranked (4.9+) @ Fiverr** | Python Instructor, Sept 2020 - Jan 2024.
 - **Hazza Institute @NAVTTC** | Ranked first, 2022.
 - **International Islamic University Islamabad** | Merit Scholarship Holder during undergraduate, 2019.
-- **Quaid-i-Azam University** | Prime Minister Laptop Award Holder, 2018.
+- **Quaid-i-Azam University** | Recipient of Prime Minister Laptop Award, 2018.
 - **Punjab College** | Merit Scholarship Holder, 2015.
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
 
