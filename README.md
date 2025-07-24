@@ -8,9 +8,9 @@
 - I'm passionate about learning. In fact, I like learning so much that I decided to work full-time with learning which is why I'm looking for PhD positions!
 
 ## Achievements 🏆
-- **Calico Spring 2025 @University of California Berkeley** | (Top 6%).
+- **Calico Spring 2025 @University of California Berkeley** | Top 6%.
 - **CS50x @Harvard Winner 2025** | Ranked 1st. 
-- **Coding Contest Spring '25 @TeamsCode - Advanced Division** | (Top 10%).
+- **Coding Contest Spring '25 @TeamsCode - Advanced Division** | Top 10%.
 - **Highly Ranked (4.9+) @ Fiverr** | Python Instructor, Sept 2020 - Jan 2024.
 - **Hazza Institute @NAVTTC** | Ranked first, 2022.
 - **International Islamic University Islamabad** | Merit Scholarship Holder during undergraduate, 2019.
