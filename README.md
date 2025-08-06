@@ -4,7 +4,7 @@
 
 ## About me 👨
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
-- I’m currently working as Junior Lecturer/Software Developer at Iqra University Islamabad.
+- I love to solve LeetCode problems (DSA) which helps me improve my problem solving skills.
 - I'm passionate about learning. In fact, I like learning so much that I decided to work full-time with learning which is why I'm looking for PhD positions!
 
 ## Achievements 🏆
