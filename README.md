@@ -38,7 +38,5 @@
 
 📧 [Email](mailto:mwahab.1611@gmail.com)
 
-🌐 [Website](https://wahhabkhan.github.io/)
-
 Feel free to reach out!
 
