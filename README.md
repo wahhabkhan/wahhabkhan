@@ -1,4 +1,9 @@
 ![image](https://github.com/user-attachments/assets/0dc60e6c-7155-479d-ac3c-39cc7e39135a)![Profile views](https://komarev.com/ghpvc/?username=wahhabkhan&color=blue)
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Pakistan') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
 ## Hi there 👋
 - I'm seeking Ph.D. positions in Computer Science.
 
