@@ -23,16 +23,16 @@
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
 
 ## Teaching Experience 🏫 
-- **Junior Lecturer** | Iqra University Islamabad | 03/07/2024 – CURRENT
-- **Python Instructor** | FIVERR | 01/09/2020 – 31/01/2024
+- **Junior Lecturer** | Iqra University Islamabad | July 2024 – CURRENT
+- **Python Instructor** | FIVERR | Sep 2020 – Jan 2024
 
 ## Work Experience 💼
-- **Junior Lecturer / Software Developer** | Iqra University Islamabad | 03/07/2024 – CURRENT
-- **Software Engineer** | FIVERR | 01/07/2024 – CURRENT
-- **Web Developer** | Dynamics 360 | 11/03/2024 – 11/06/2024
-- **Web Developer** | Centangle Interactive | 01/03/2023 – 29/02/2024
-- **Trainee (MERN)** | QC360 | 12/12/2022 – 10/02/2023
-- **Software Engineer** | FIVERR | 01/09/2020 – 31/01/2024
+- **Junior Lecturer** | Iqra University Islamabad | July 2024 – CURRENT
+- **Software Engineer** | FIVERR | July 2024 – CURRENT
+- **Web Developer** | Dynamics 360 | Mar 2024 – Jun 2024
+- **Web Developer** | Centangle Interactive | Mar 2023 – Feb 2024
+- **Trainee (MERN)** | QC360 | Dec 2022 – Feb 2023
+- **Software Engineer** | FIVERR | Sep 2020 – Jan 2024
 
 ## How to reach me 📫
 🔗 [LinkedIn](https://www.linkedin.com/in/wahhabk/)
