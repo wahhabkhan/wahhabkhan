@@ -28,7 +28,7 @@
 
 ## Work Experience 💼
 - **Junior Lecturer** | Iqra University Islamabad | July 2024 – Present
-- **Software Engineer** | FIVERR | July 2024 – CURRENT
+- **Software Engineer** | FIVERR | July 2024 – Present
 - **Web Developer** | Dynamics 360 | Mar 2024 – Jun 2024
 - **Web Developer** | Centangle Interactive | Mar 2023 – Feb 2024
 - **Trainee (MERN)** | QC360 | Dec 2022 – Feb 2023
