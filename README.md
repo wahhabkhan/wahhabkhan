@@ -23,11 +23,11 @@
 - **PAEC Model College** | Merit Scholarship Holder, 2013.
 
 ## Teaching Experience 🏫 
-- **Junior Lecturer** | Iqra University Islamabad | July 2024 – CURRENT
+- **Junior Lecturer** | Iqra University Islamabad | July 2024 – Present
 - **Python Instructor** | FIVERR | Sep 2020 – Jan 2024
 
 ## Work Experience 💼
-- **Junior Lecturer** | Iqra University Islamabad | July 2024 – CURRENT
+- **Junior Lecturer** | Iqra University Islamabad | July 2024 – Present
 - **Software Engineer** | FIVERR | July 2024 – CURRENT
 - **Web Developer** | Dynamics 360 | Mar 2024 – Jun 2024
 - **Web Developer** | Centangle Interactive | Mar 2023 – Feb 2024
