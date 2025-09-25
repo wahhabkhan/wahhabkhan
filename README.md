@@ -5,9 +5,9 @@
 
 ## About me 👨
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
-- I've been into programming since first year in university, where I started teaching it to others to help them get over their fear of coding.
-- I like to dive into various technologies and experiment with many programming languages.
-- I love to solve LeetCode problems (DSA) which helps me to improve my problem solving skills.
+- I’ve been into programming since my first year at university, when I started teaching it to others to help them overcome their fear of coding.
+- I like exploring various technologies and experimenting with different programming languages.
+- I love solving LeetCode problems (DSA), which helps me improve my problem-solving skills.
 - I'm passionate about learning. In fact, I like learning so much that I decided to work full-time with learning which is why I'm looking for PhD positions!
 
 ## Achievements 🏆
