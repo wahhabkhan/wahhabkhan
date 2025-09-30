@@ -13,7 +13,7 @@
 ## Achievements 🏆
 - **M(IT)^2 Spring 2025 @MIT** | Top 7%.  
 - **Calico Spring 2025 @UC Berkeley** | Top 6%.
-- **CS50x 2025 @Harvard** | Ranked 1st. 
+- **CS50x 2025 @Harvard** | Led a Top Team to solve 9/9 problems. 
 - **Coding Contest Spring '25 @TeamsCode - Advanced Division** | Ranked 39th out of 396 globally.
 - **Highly Ranked (4.9+) @ Fiverr** | Python Instructor, Sept 2020 - Jan 2024.
 - **Hazza Institute @NAVTTC** | Ranked first, 2022.
