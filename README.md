@@ -4,7 +4,7 @@
 - I'm seeking **Ph.D. positions in Computer Science.**
 
 ## About me 👨
-- A software engineer with expertise in Programming, Databases, Algorithms, and Problem-Solving.
+- A software engineer with expertise in Programming, Databases, Algorithms, and Problem Solving.
 - I’ve been into programming since my first year at university, when I started teaching it to others to help them overcome their fear of coding.
 - I like exploring various technologies and experimenting with different programming languages.
 - I love solving LeetCode problems (DSA), which helps me improve my problem-solving skills.
