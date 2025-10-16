@@ -8,7 +8,7 @@
 - I’ve been into programming since my first year at university, when I started teaching it to others to help them overcome their fear of coding.
 - I like exploring various technologies and experimenting with different programming languages.
 - I love solving LeetCode problems (DSA), which helps me improve my problem-solving skills.
-- I'm passionate about learning. In fact, I like learning so much that I decided to work full-time with learning which is why I'm looking for PhD positions!
+- My passion for continuous learning has inspired me to take the next step in my academic journey — pursuing a PhD.
 
 ## How to reach me 📫
 🔗 [LinkedIn](https://www.linkedin.com/in/wahhabk/)
