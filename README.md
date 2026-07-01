@@ -11,9 +11,5 @@
 - My passion for continuous learning has inspired me to take the next step in my academic journey pursuing a PhD.
 
 ## How to reach me 📫
-🔗 [LinkedIn](https://www.linkedin.com/in/wahhabk/)
 
 📧 [Email](mailto:mwahab.1611@gmail.com)
-
-Feel free to reach out!
-
