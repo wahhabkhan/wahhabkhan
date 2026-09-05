@@ -3,8 +3,7 @@
 ## Hi, I'm Wahab! 👋
 ## About me 👨
 - A software engineer with expertise in Programming, Databases, Algorithms, and Problem Solving.
-- I've solved 250+ DSA problems on Leetcode.
-- I love solving LeetCode problems (DSA), which helps me improve my problem-solving skills.
+- I've solved 250+ DSA problems on Leetcode, which helps me improve my problem-solving skills.
 - I like exploring various technologies and experimenting with different programming languages.
 - My passion for continuous learning has inspired me to take the next step in my academic journey pursuing a PhD.
 
